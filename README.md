@@ -30,9 +30,5 @@ python test_knn.py --autonorm
 ```
 python test_knn.py --autonorm --grid_search
 ```
-## 关于堂妹
-一个喜欢在澡堂子里写文章的程序媛。\
-公众号《九点澡堂子》不仅干货满满(尽量)，还记录了堂妹的点点滴滴(日常吹水). \
-如果你想了解更多，关注公众号精彩继续～
-![九点澡堂子](https://tva1.sinaimg.cn/large/008i3skNgy1gsmrdsr20yj30qc0q841p.jpg)
+
 
